@@ -1,0 +1,43 @@
+img {
+    display: none;
+}
+
+/* Basic printing styles */
+body {
+    color: black;
+    font-size: 12pt;
+    background-color: white;
+    /* Additional styling for body in print mode */
+}
+
+video{
+    display: none;
+}
+video.container{
+    display:none;
+}
+/* Remove borders, shadows, etc. */
+
+/* Set up CSS Grid or Grid-View for printing */
+
+/* Adjust links for printing */
+
+/* Block display for everything in print mode */
+
+/* Hide script tags for printing */
+script {
+    display: none;
+}
+
+.sidenav{
+    display:none;
+}
+
+#main{
+    display: none;
+}
+
+.contact i{
+    display: none;
+}
+
